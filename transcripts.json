@@ -1,0 +1,594 @@
+[
+  {
+    "call_sid": "CA1520bdd996077110cd50b1492dbf8812",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:23:25",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good. AI."
+      },
+      {
+        "speaker": "patient",
+        "text": "Hi, this is Alice Decker. I'm calling to schedule an appointment for my headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. Alice can I have your date of birth to confirm your identity?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, that works perfectly. Thank you!"
+      },
+      {
+        "speaker": "agent",
+        "text": "I just need your date of birth to move forward with scheduling your appointment. Could you share that with me?"
+      },
+      {
+        "speaker": "patient",
+        "text": "My date of birth is March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "I was the birthday you gave doesn't match our records, but for demo purposes. I'll accept it. Let me get started with scheduling your appointment for headaches. Thanks Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you for accepting the birthday I provided. I appreciate you scheduling my appointment for headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "If you're not sure, I can explain the options."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, please explain the options for scheduling an appointment to address my headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Sure, here are the main appointment types."
+      },
+      {
+        "speaker": "patient",
+        "text": "I would like to schedule an appointment for my headaches."
+      }
+    ]
+  },
+  {
+    "call_sid": "CAd4480833609e5b69d23507b584a62db3",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:24:45",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks for calling Pivot Point Orthopedics."
+      },
+      {
+        "speaker": "patient",
+        "text": "Hi, I'm Alice Decker. I've been experiencing headaches for the past week, and I'd like to schedule an appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it Alice, can you please tell me your date of birth? So I can verify your identity and get started with scheduling your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "Alice, your birthday doesn't match our records. But for demo purposes, I'll accept it. When we get started on schedule, your appointment for headaches, 1 moment."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you for accepting my birthday for demo purposes. I appreciate your help in scheduling my appointment for my headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Do you have a specific provider or day in mind?"
+      },
+      {
+        "speaker": "patient",
+        "text": "No, I don't have a specific provider in mind. I'm available any day this week for an appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. Let me check for a new patient consultation availability with any provider for this week. We have openings for a new patient consultation as soon as Tuesday, February 17th with Dr. Duty house or"
+      },
+      {
+        "speaker": "patient",
+        "text": "That works for me. I'll take the appointment with Dr. Duty House on Tuesday, February 17th. Thank you."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it just to confirm on booking you for a new patient consultation with Dr. Dudy Howser on Tuesday, February 17th, at 12:00 p.m. for your headaches."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, that works perfectly. Thank you!"
+      }
+    ]
+  },
+  {
+    "call_sid": "CA6b78652e16beb1eb889b218c91859d57",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:25:03",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "I've been experiencing headaches for the past week."
+      },
+      {
+        "speaker": "agent",
+        "text": "I am I speaking with Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker."
+      },
+      {
+        "speaker": "agent",
+        "text": "Great Alice. Can you please tell me your date of birth to verify your identity?"
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "The birthday you gave doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I've been experiencing headaches for the past week and I'd like to schedule an appointment to see a doctor."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you. Do you need any more information from me?"
+      },
+      {
+        "speaker": "agent",
+        "text": "Be a new patient consultation. Do you have a preferred doctor, or should I check availability for all doctors?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I don't have a preferred doctor, so please check availability for all doctors. Thank you."
+      }
+    ]
+  },
+  {
+    "call_sid": "CAead1967f2438977af596e32be1a526d7",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:26:06",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "Headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "For calling Pivot Point Orthopedics part of pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker."
+      },
+      {
+        "speaker": "agent",
+        "text": "Da Alice, can you please tell me your date of birth to verify your identity?"
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "Alice, your birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I've been experiencing headaches for the past week and I'd like to schedule an appointment to see a doctor."
+      },
+      {
+        "speaker": "agent",
+        "text": "Dotted Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker."
+      },
+      {
+        "speaker": "agent",
+        "text": "Consultation, would you prefer to see a specific doctor? Or are you open to the first available provider?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I'm open to seeing the first available provider. Thank you."
+      }
+    ]
+  },
+  {
+    "call_sid": "CA6ffcfd4737ee931daa7db164c3b1a27c",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:27:33",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got an Alice, can you tell me your date of birth to verify your identity?"
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "The birthday you gave doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I'm sorry about the mix-up with my birthday. I've been experiencing headaches for the past week and would like to schedule an appointment with a doctor to discuss it."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. You'd like to see a doctor about headaches that started last week. The best option is a new patient consultation or a follow-up consultation. Have you seen a provider here before or would this be your first visit for this problem?"
+      },
+      {
+        "speaker": "patient",
+        "text": "This would be my first visit for this problem."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks for clarifying. New patient consultation is the right fit."
+      },
+      {
+        "speaker": "patient",
+        "text": "Great, that works for me. When can I schedule the new patient consultation?"
+      },
+      {
+        "speaker": "agent",
+        "text": "We can schedule a new patient consultation with any available provider. If you have a chance for the day or time of day, like mornings or afternoon,"
+      },
+      {
+        "speaker": "patient",
+        "text": "I prefer mornings for my appointment, please."
+      }
+    ]
+  },
+  {
+    "call_sid": "CA8dbba99e2820073773a806fc285a126f",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:28:06",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "Headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker. I've been experiencing headaches for the past week."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it, Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you. When can I schedule an appointment to see a doctor about my headaches?"
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it Alice, can you please confirm your date of birth? So I can verify your identity and help schedule your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, that works perfectly. Thank you!"
+      },
+      {
+        "speaker": "agent",
+        "text": "I'll just need your date of birth to move forward with scheduling your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "The birthday doesn't match our records, but for demo purposes, I'll accept it."
+      },
+      {
+        "speaker": "patient",
+        "text": "That's strange, but thank you for accepting it. I've been having headaches for the past week and would like to schedule an appointment to get them checked out."
+      }
+    ]
+  },
+  {
+    "call_sid": "CAde1076c610f02e2f81c2bc62d74c57db",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:29:13",
+    "turn_count": 12,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "Headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Point Orthopedics part of pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice. I've been having headaches for the past week and would like to schedule an appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Potted Alice for your safety. Can you please share your date of birth? I'll get started on scheduling your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985. Thank you."
+      },
+      {
+        "speaker": "patient",
+        "text": "I'm sorry, I didn't catch that."
+      },
+      {
+        "speaker": "agent",
+        "text": "No problem. The birthday you gave doesn't match our records, but I'll accept it for now. Since this is a demo, let me get started on your appointment request for headaches."
+      },
+      {
+        "speaker": "patient",
+        "text": "Oh, I must have given the wrong date. Thank you for accepting it for now. I appreciate you helping me with my appointment request for headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Follow-up consultation, a procedure appointment for a physical therapy session for your headaches. If you're not sure, I can help you choose."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, I would like to schedule a procedure appointment for a physical therapy session for my headaches. Thank you."
+      }
+    ]
+  },
+  {
+    "call_sid": "CA81762d61ad65a671d7d37a876d617beb",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:30:18",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "Headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker. I'm calling about headaches I've been having for the past week."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it Alice to help you further. Can you tell me your date of birth?"
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "The birthday you gave doesn't match our records, but for demo purposes. I'll accept it."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you for accepting the date for demo purposes. I'm calling about my headaches, can I schedule an appointment to see a doctor?"
+      },
+      {
+        "speaker": "agent",
+        "text": "Of course for your headaches, a new patient consultation or follow-up consultation would be best."
+      },
+      {
+        "speaker": "patient",
+        "text": "A new patient consultation would be best for my headaches. Thank you."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. Let me check available follow-up consultation times with our doctors, we have opening this week and early next week for a follow-up consultation."
+      },
+      {
+        "speaker": "patient",
+        "text": "That sounds great. I'm available this week or early next week for a follow-up consultation. Thank you."
+      }
+    ]
+  },
+  {
+    "call_sid": "CA5e1efd2252c224373a568871c96b34ba",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:31:09",
+    "turn_count": 12,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "For."
+      },
+      {
+        "speaker": "patient",
+        "text": "Headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Pivot Point Orthopedics for a pretty good AI. Am I speaking with Alice?"
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, this is Alice Decker. I've been experiencing headaches for the past week and I'd like to make an appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Doubted Alice for your safety. Can you please provide your date of birth?"
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "patient",
+        "text": "I'm sorry, I didn't catch that."
+      },
+      {
+        "speaker": "agent",
+        "text": "No problem. Your birthday isn't matching our records, but for demo purposes, I'll accept it. Let me get you scheduled for an appointment for your headaches."
+      },
+      {
+        "speaker": "patient",
+        "text": "Thank you for accepting my birthday for demo purposes. I appreciate you scheduling an appointment for my headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. What type of appointment? Would you like to schedule?"
+      },
+      {
+        "speaker": "patient",
+        "text": "I would like to schedule an appointment to see a doctor for my headaches. Thank you."
+      }
+    ]
+  },
+  {
+    "call_sid": "CA3099f0ec095db7433443b8ea1cd2a343",
+    "scenario": "appointment_scheduling",
+    "timestamp": "2026-02-16 04:32:04",
+    "turn_count": 13,
+    "turns": [
+      {
+        "speaker": "patient",
+        "text": "Hi, I need to schedule a doctor's appointment."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good. AI."
+      },
+      {
+        "speaker": "patient",
+        "text": "Hi, this is Alice Decker. I'm experiencing headaches and would like to schedule an appointment with a doctor."
+      },
+      {
+        "speaker": "agent",
+        "text": "Data Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "This is Alice Decker."
+      },
+      {
+        "speaker": "agent",
+        "text": "Thanks Alice."
+      },
+      {
+        "speaker": "patient",
+        "text": "You're welcome. I would like to schedule an appointment to see a doctor about my headaches."
+      },
+      {
+        "speaker": "agent",
+        "text": "Understood, can you please provide your date of birth? So I can confirm your identity and help with scheduling your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, that works perfectly. Thank you!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Got it. Please tell me your date of birth so I can get started with your appointment."
+      },
+      {
+        "speaker": "patient",
+        "text": "March 15, 1985."
+      },
+      {
+        "speaker": "agent",
+        "text": "Let me confirm your details."
+      },
+      {
+        "speaker": "patient",
+        "text": "Yes, that works perfectly. Thank you!"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "name": "appointment_scheduling",
+  "description": "Patient wants to schedule a doctor's appointment",
+  "persona": {
+    "name": "Alice Decker",
+    "dob": "March 15, 1985",
+    "phone": "555-123-4567",
+    "insurance": "Blue Cross Blue Shield",
+    "reason": "Headaches for the past week",
+    "personality": "Polite, cooperative patient who answers questions directly"
+  },
+  "initial_message": "Hi, I need to schedule a doctor's appointment.",
+  "responses": [
+    {
+      "keywords": ["full name", "first and last"],
+      "reply": "My name is Alice Decker."
+    },
+    {
+      "keywords": ["first name", "given name"],
+      "reply": "My first name is Alice."
+    },
+    {
+      "keywords": ["last name", "family name", "surname"],
+      "reply": "My last name is Decker."
+    },
+    {
+      "keywords": ["phone number", "contact number", "callback number"],
+      "reply": "My phone number is 555-123-4567."
+    },
+    {
+      "keywords": ["insurance", "coverage", "insurance plan"],
+      "reply": "Yes, I have Blue Cross Blue Shield insurance."
+    },
+    {
+      "keywords": ["when would you like", "what day", "which day", "preferred date"],
+      "reply": "I'd like to come in next Tuesday if that's available."
+    },
+    {
+      "keywords": ["what time", "morning or afternoon", "time preference"],
+      "reply": "Morning would be best for me, around 10 or 11 AM if possible."
+    },
+    {
+      "keywords": ["reason for visit", "what brings you in", "why are you calling", "what's the issue"],
+      "reply": "I've been having headaches for the past week and I'd like to get checked out."
+    },
+    {
+      "keywords": ["confirm", "is that correct", "does that work", "sounds good"],
+      "reply": "Yes, that works perfectly. Thank you!"
+    }
+  ]
+}
